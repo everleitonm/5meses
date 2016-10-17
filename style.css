@@ -1,6 +1,7 @@
 body{
   margin: 0;
   padding: 0;
+  background-color: rgb(80, 70, 190)
   background-image: url('img.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
