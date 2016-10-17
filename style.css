@@ -60,5 +60,5 @@ footer{
   align-items: center;  
 }
 @media (max-width: 600px) {
-    height: 400px;
+    height: 200px;
 }
