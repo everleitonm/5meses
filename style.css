@@ -36,8 +36,9 @@ body{
 }
 p{
   background-color: white;
-  padding: 40px;
-  border: solid 10px rgb(131, 22, 124)
+width: 480px;
+  border: solid 10px rgb(131, 22, 124);
+  text-align: center;
 }
 
 .video{
